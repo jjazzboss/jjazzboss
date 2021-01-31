@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there :musical_note:
 
-You'll find here the home of **[JJazzLab-X](https://github.com/jjazzboss/JJazzLab-X)**, a free musical framework :musical_note: used by thousands of musicians to practice their instrument with a virtual band.
+You'll find here the home of **[JJazzLab-X](https://github.com/jjazzboss/JJazzLab-X)**, a free musical framework used by thousands of musicians to practice their instrument with a virtual band.
 
  🤔 I'm looking for help to add new backing track generation capabilities:
  - Generate slight variations of an existing drums & bass rhythm (e.g. make it more simple or more intense)
