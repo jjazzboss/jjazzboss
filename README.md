@@ -7,6 +7,6 @@ You'll find here the home of **[JJazzLab-X](https://github.com/jjazzboss/JJazzLa
  - Generate a realistic and non-boring jazz walking bass from a chord lead sheet
  - Effectively "humanize" drums and bass midi tracks
  
- Also interested in research papers related to these topics.
+Don't hesitate to send links to related research papers. 
  
 📫 Feel free to get in touch via the contact page of www.jjazzlab.com (the main JJazzLab-X distribution).
