@@ -9,4 +9,4 @@ You'll find here the home of **[JJazzLab-X](https://github.com/jjazzboss/JJazzLa
  
  Also interested in research papers related to these topics.
  
-📫 Get in touch via the contact page of www.jjazzlab.com (the main JJazzLab-X distribution).
+📫 Feel free to get in touch via the contact page of www.jjazzlab.com (the main JJazzLab-X distribution).
