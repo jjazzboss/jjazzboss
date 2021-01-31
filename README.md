@@ -1,4 +1,4 @@
-### Hi I'm Jerome 
+### Welcome!
 
 You'll find here the home of **[JJazzLab-X](https://github.com/jjazzboss/JJazzLab-X)**, a free musical framework :musical_note: used by thousands of musicians all over the world to practice their instrument with a virtual band.
 
