@@ -6,6 +6,7 @@ You'll find here the home of **[JJazzLab-X](https://github.com/jjazzboss/JJazzLa
  - Generate slight variations of an existing drums & bass rhythm (e.g. make it more simple or more intense)
  - Generate a realistic and non-boring jazz walking bass from a chord lead sheet
  - Effectively "humanize" drums and bass midi tracks
+ - and more...
  
 Don't hesitate to send links to related research papers. 
  
